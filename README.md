@@ -1,4 +1,11 @@
-## Hi there 👋
+# 🌱 Jarrod Walton
+
+**`Water Scientist (Educator, Data Scientist)`**
+
+:earth_asia: I am a student/teacher of science with a particular focus on the wonderful world of freshwater ecosystems. <br>
+:yin_yang: I feel equally at home in the field among nature and on the computer among data. <br>
+:beetle: I have a indefatigable attraction to trying new things and getting results. <br>
+:rocket: I'm of the opinion that a strong team is greater than the sum of its parts, and hope to work alongside like minded people in the near future. <br>
 
 <!--
 **rodofjar/rodofjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
