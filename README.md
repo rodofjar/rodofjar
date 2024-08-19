@@ -25,14 +25,35 @@
 <img align="left" alt="PowerShell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" />
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-          
-          
-          
-          
-          
-          
-          
-          
+<br>
+<h1></h1>
+<h3>Statistical Analysis and Modelling</h3>
+
+<h4>Comparative Analyses</h4>
+<li>Correlation</li>
+<li>Simple & Logistic Regression</li>
+<li>Random/Fixed Effects Mixed Models</li>
+<li>ANOVA, ANCOVA, Chi-squared Analysis</li>
+
+
+<h4>Time Series Analysis</h4>
+<li>ARIMA</li>
+<li>Break Point Analysis</li>
+<li>Decomposition, Lag, Rare Event Analyes</li>
+
+<h4>Ordination Analyses</h4>
+<li>PCA</li>
+<li>RDA</li>
+<li>nMDS</li>
+<li>MFA</li>
+
+<h4>Data Exploration Wrangling</h4>
+<li>Data Cleaning</li>
+<li>Large datasets</li>
+<li>3<sup>rd</sup> Party, multiple format, datasets</li>
+<li>Factor Analysis</li>
+<li>Decision Tree Analysis, Regression Tree Analysis</li>
+     
 
 <!--
 **rodofjar/rodofjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
