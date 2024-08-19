@@ -54,7 +54,7 @@
 <li>Factor Analysis</li>
 <li>Decision Tree Analysis, Regression Tree Analysis</li>
      
-
+<img src="https://raw.githubusercontent.com/rodofjar/R.Tutorials/main/Example%20Figures/figures_comp_v1.png?token=GHSAT0AAAAAACWBHE2WP3JCPBKY44KPGSPAZWDEOBA">
 <!--
 **rodofjar/rodofjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
