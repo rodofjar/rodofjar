@@ -30,11 +30,9 @@
 <h3>Statistical Analysis and Modelling</h3>
 
 <h4>Comparative Analyses</h4>
-<li>Correlation</li>
-<li>Simple & Logistic Regression</li>
-<li>Random/Fixed Effects Mixed Models</li>
+<li>GLM, LRM, LMM</li>
+<li>Model Comparisons</li>
 <li>ANOVA, ANCOVA, Chi-squared Analysis</li>
-
 
 <h4>Time Series Analysis</h4>
 <li>ARIMA</li>
@@ -45,13 +43,13 @@
 <li>PCA</li>
 <li>RDA</li>
 <li>nMDS</li>
-<li>MFA</li>
+<li>MCA</li>
 
 <h4>Data Exploration Wrangling</h4>
 <li>Data Cleaning</li>
 <li>Large datasets</li>
 <li>3<sup>rd</sup> Party, multiple format, datasets</li>
-<li>Factor Analysis</li>
+<li>Multiple Factor Analysis</li>
 <li>Decision Tree Analysis, Regression Tree Analysis</li>
      
 <img src="https://raw.githubusercontent.com/rodofjar/R.Tutorials/main/Example%20Figures/figures_comp_v1.png?token=GHSAT0AAAAAACWBHE2WP3JCPBKY44KPGSPAZWDEOBA">
