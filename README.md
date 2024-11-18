@@ -20,25 +20,30 @@
 
 <img align="left" alt="PowerShell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" />
 
+<img align="left" alt="QGIS" width="30px" style="padding-right:10px;" src="https://www.qgis.org/styleguide/visual/qgis-icon32.svg" />
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+
+<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" />
 
 <br>
 <h1></h1>
 <h3>Statistical Analysis and Modelling</h3>
 
 <h4>Comparative Analyses</h4>
-<li>GLM, LRM, LMM</li>
+<li>GLM, LRM, LMM, GLMM</li>
 <li>Model Comparisons</li>
-<li>ANOVA, ANCOVA, Chi-squared Analysis</li>
+<li>ANOVA, ANCOVA, Chi-squared Analysis, </li>
 
 <h4>Time Series Analysis</h4>
 <li>ARIMA</li>
 <li>Break Point Analysis</li>
-<li>Decomposition, Lag, Rare Event Analyes</li>
+<li>Decomposition, Lag, Rare Event Analysis</li>
 
 <h4>Ordination Analyses</h4>
 <li>PCA</li>
 <li>RDA</li>
-<li>nMDS</li>
+<li>nMDS (ANSOSIM and SIMPER)</li>
 <li>MCA</li>
 
 <h4>Data Exploration Wrangling</h4>
@@ -46,7 +51,7 @@
 <li>Large datasets</li>
 <li>3<sup>rd</sup> Party, multiple format, datasets</li>
 <li>Multiple Factor Analysis</li>
-<li>Decision Tree Analysis, Regression Tree Analysis</li>
+<li>Decision Tree Analysis, Regression Tree Analysis, Random Forest Analysis</li>
      
 <img src="Images/portfolioFigures.png">
 
