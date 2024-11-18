@@ -38,6 +38,7 @@
 <h4>Time Series Analysis</h4>
 <li>ARIMA</li>
 <li>Break Point Analysis</li>
+<li>Imputation</li>
 <li>Decomposition, Lag, Rare Event Analysis</li>
 
 <h4>Ordination Analyses</h4>
