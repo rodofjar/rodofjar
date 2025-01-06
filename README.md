@@ -33,7 +33,7 @@
 <h4>Comparative Analyses</h4>
 <li>GLM, LRM, LMM, GLMM</li>
 <li> Bayesian Model Comparisons</li>
-<li>ANOVA, ANCOVA, Chi-squared Analysis, </li>
+<li>ANOVA, ANCOVA, Chi-squared Analysis </li>
 
 <h4>Time Series Analysis</h4>
 <li>ARIMA</li>
