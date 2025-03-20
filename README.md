@@ -1,11 +1,12 @@
-# 🌱 Jarrod Walton
+# 🌱 Dr. Jarrod Walton
 
 **`Water Scientist (Educator, Data Scientist)`**
 
-:earth_asia: I am an Australian student/teacher of science with a particular focus on the wonderful world of freshwater ecosystems. <br>
-:yin_yang: I feel equally at home in the field among nature as I do on the computer among data. <br>
-:beetle: I have a indefatigable attraction to trying new things and getting results. <br>
-:rocket: I'm of the opinion that a strong team is greater than the sum of its parts, and hope to work alongside like minded people in the near future. <br>
+:earth_asia: I am an Australian researcher/teacher of science with a particular focus on ecology. <br>
+:yin_yang: I feel equally at home in the field among nature as I do on the computer among nature's data. <br>
+:beetle: I have a unrelenting attraction to trying new things but am ewually driven by the power of *things that just work*. <br>
+:rocket: I believe a strong team is often greater than the sum of its parts, and my experience working across disciplines has proven just that. <br>
+💻 I am foremost a researcher, but enjoy programming in my spare-time when the call from the great outdoors dims. 
 <h3> Primary Tools and Languages</h3> 
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" />
@@ -61,7 +62,7 @@
 DEV IMAGE SOURCE:
 https://devicon.dev/
 
-NOT USED ATM
+NOT USED at the moment
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
