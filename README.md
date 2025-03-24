@@ -1,4 +1,4 @@
-# 🌱 Dr. Jarrod Walton
+# 🌱 Jarrod Walton
 
 **`Water Scientist (Educator, Data Scientist)`**
 
